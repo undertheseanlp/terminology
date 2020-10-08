@@ -11,5 +11,5 @@ words = [get_word(section) for section in sections]
 words = sorted(words, key=lambda item: item[0])
 content = "".join([f"### {word}{description}" for word, description in words])
 content = title + "\n\n" + content
-open("README2.md", "w").write(content)
+open("README.md", "w").write(content)
 print("Format is complete")
