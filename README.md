@@ -49,7 +49,7 @@ Hình vị (hình -> hình thái học, vị -> đơn vị), còn gọi là ng�
 
 Tham khảo
 
-*  [Hình vị (Morpheme) || Morphology || B's Ling Corner](https://www.youtube.com/watch?v=i6QeKRh7rc4&ab_channel=B%27sLingCorner)
+*  [Hình vị (Morpheme) || Morphology](https://www.youtube.com/watch?v=i6QeKRh7rc4&ab_channel=B%27sLingCorner), B's Ling Corner 2019, youtube
 
 ### Phonetics
 
