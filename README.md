@@ -32,6 +32,12 @@ Tham khảo:
 
 Hình thái học: nghiên cứu bản chất cấu trúc của từ vựng
 
+Là môn học xác định, phân tích và miêu tả cấu trúc của hình vị (còn gọi là ngữ tố, từ tố)và các đơn vị ý nghĩa khác như từ, phụ tố, từ loại, thành điệu, hàm ý.
+
+### Morpheme
+
+Hình vị, còn gọi là ngữ tố, từ tố, là đơn vị ngữ pháp nhỏ nhất của một ngôn ngữ.
+
 ### Phonetics
 
 Ngữ âm học: nghiên cứu quy luật các thể của âm
