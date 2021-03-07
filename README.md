@@ -43,6 +43,10 @@ Ví dụ 1: Xem xét các ví dụ sau *cook***er**, *cook***s**, *cook***ing**,
 
 Ví dụ 2: Các từ *happi***ly**, *happi***ness**, *happi***er**,  *happi***est**, mỗi từ đều có hai yếu tố là *happi* và các hậu tố **-ly**, **-ness**, **-er**, **-est**
 
+Tham khảo
+
+*  [Hình vị (Morpheme) || Morphology](https://www.youtube.com/watch?v=i6QeKRh7rc4&ab_channel=B%27sLingCorner), B's Ling Corner 2019, youtube
+
 ### Morpheme
 
 Hình vị (hình -> hình thái học, vị -> đơn vị), còn gọi là ngữ tố, từ tố, là đơn vị ngữ pháp nhỏ nhất của một ngôn ngữ.
