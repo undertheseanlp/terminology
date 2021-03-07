@@ -34,9 +34,22 @@ Hình thái học: nghiên cứu bản chất cấu trúc của từ vựng
 
 Là môn học xác định, phân tích và miêu tả cấu trúc của hình vị (còn gọi là ngữ tố, từ tố)và các đơn vị ý nghĩa khác như từ, phụ tố, từ loại, thành điệu, hàm ý.
 
+Ví dụ 1: Xem xét các ví dụ sau *cook***er**, *cook***s**, *cook***ing**,  *cook***ed**
+
+* *cook***er** được cấu thành từ hai đơn vị, động từ *cook* và hậu tố **-er**
+* *cook***s** được cấu thành từ hai đơn vị, động từ *cook* và hậu tố **-s** (he cooks, she cooks)
+* *cook***ing** được cấu thành từ hai đơn vị, động từ *cook* và hậu tố **-ing** (trong thì hiện tại) 
+* *cook***ed** được cấu thành từ hai đơn vị, động từ *cook* và hậu tố **-ed** (ở thì quá khứ)
+
+Ví dụ 2: Các từ *happi***ly**, *happi***ness**, *happi***er**,  *happi***est**, mỗi từ đều có hai yếu tố là *happi* và các hậu tố **-ly**, **-ness**, **-er**, **-est**
+
 ### Morpheme
 
-Hình vị, còn gọi là ngữ tố, từ tố, là đơn vị ngữ pháp nhỏ nhất của một ngôn ngữ.
+Hình vị (hình -> hình thái học, vị -> đơn vị), còn gọi là ngữ tố, từ tố, là đơn vị ngữ pháp nhỏ nhất của một ngôn ngữ.
+
+Tham khảo
+
+*  [Hình vị (Morpheme) || Morphology || B's Ling Corner](https://www.youtube.com/watch?v=i6QeKRh7rc4&ab_channel=B%27sLingCorner)
 
 ### Phonetics
 
