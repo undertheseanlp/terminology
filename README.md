@@ -28,6 +28,10 @@ Tham khảo:
 
 * (1): https://vi.wikipedia.org/wiki/H%C3%ACnh_v%E1%BB%8B
 
+### Discourse Analysis
+
+Phân tích diễn ngôn - phân tích ngôn ngữ trong văn bản
+
 ### Morphology
 
 Hình thái học: nghiên cứu bản chất cấu trúc của từ vựng
