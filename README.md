@@ -34,6 +34,15 @@ Phân tích diễn ngôn - phân tích ngôn ngữ trong văn bản
 
 Discourse: đơn vị ngôn ngữ trên câu (từ hai câu trở lên)
 
+Trong discourse analysis có những công cụ sau:
+
+* phân tích hội thoại (conversation analysis),
+* phân tích thể loại (genre analysis)
+* phân tích chuyện kể (narrative analysis)
+* khung đánh giá (appraisal analysis)
+* critical discourse analysis
+* multimodal discourse analysis
+
 ### Morphology
 
 Hình thái học: nghiên cứu bản chất cấu trúc của từ vựng
