@@ -32,6 +32,8 @@ Tham khảo:
 
 Phân tích diễn ngôn - phân tích ngôn ngữ trong văn bản
 
+Discourse: đơn vị ngôn ngữ trên câu (từ hai câu trở lên)
+
 ### Morphology
 
 Hình thái học: nghiên cứu bản chất cấu trúc của từ vựng
