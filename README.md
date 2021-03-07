@@ -26,7 +26,7 @@ Hình vị (tiếng Anh: morpheme), còn gọi là ngữ tố, từ tố, là đ
 
 Tham khảo:
 
-* (1): https://vi.wikipedia.org/wiki/H%C3%ACnh_v%E1%BB%8B
+* [Hình vị, wikipedia](https://vi.wikipedia.org/wiki/H%C3%ACnh_v%E1%BB%8B)
 
 ### Discourse Analysis
 
