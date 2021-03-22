@@ -82,7 +82,9 @@ Ngữ âm học: nghiên cứu quy luật các thể của âm
 
 ### Phonetic transcription
 
-Phiên âm
+Giống như *Phonetic script*, *Phonetic notation*
+
+Phiên âm là sự thể hiện trực quan của âm thanh lời nói bằng các ký hiệu. Loại phiên âm phổ biến nhất là chữ cái phiên âm, chẳng hạn như Bảng phiên âm quốc tế (International Phonetic Alphabet)
 
 ### Phonology
 
