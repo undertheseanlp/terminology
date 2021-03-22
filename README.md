@@ -19,7 +19,7 @@ Ví dụ: `'ll` (trong `we'll`) của tiếng Anh
 
 Tham khảo:
 
-* (1): https://glosbe.com/vi/en/v%E1%BB%8B%20ng%E1%BB%AF
+* https://glosbe.com/vi/en/vị ngữ
 
 ### Morpheme
 
