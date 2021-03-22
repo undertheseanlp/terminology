@@ -80,6 +80,10 @@ Tham khảo
 
 Ngữ âm học: nghiên cứu quy luật các thể của âm
 
+### Phonetic transcription
+
+Phiên âm
+
 ### Phonology
 
 Âm vị học: nghiên cứu những khuôn mẫu của âm
