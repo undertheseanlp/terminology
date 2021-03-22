@@ -28,7 +28,7 @@ Hình vị (tiếng Anh: morpheme), còn gọi là ngữ tố, từ tố, là đ
 Ví dụ, trong tiếng Anh
 
 * Từ `retroactive` gồm 3 hình vị `retro` + `act` + `ive`
-* Từ `b
+* Từ `befriended` gồm 3 hình vị `be` + `friend` + `ed`
 
 Tham khảo:
 
